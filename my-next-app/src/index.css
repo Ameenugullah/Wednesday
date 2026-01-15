@@ -1,0 +1,11 @@
+.student {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid #4CAF50;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+.student p {
+    margin: 0;
+}
